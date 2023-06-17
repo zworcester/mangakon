@@ -34,5 +34,5 @@
 # Mangakon Executable
 ./mangakon
 
-# Specific Files
-htp-notcurses.pdf
+# dev_dir
+./devdir/

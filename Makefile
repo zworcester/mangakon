@@ -1,6 +1,6 @@
 CC=g++
 FLGS=-g -lnotcurses-core -lnotcurses -lnotcurses++
-OUT=mangaterm
+OUT=mangakon
 IN=*.cpp
 
 dbg:

@@ -23,6 +23,8 @@ int main() {
 
 	for(int i = 0; i < 1000; ++i) notcurses.render();
 
+	free(plane);
+
 	return 0;
 
 }
