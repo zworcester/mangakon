@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Mangakon Executable
+./mangakon
+
+# Specific Files
+htp-notcurses.pdf
